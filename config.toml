@@ -1,0 +1,14 @@
+siteTitle = "Blog by Vincent Alcantara"
+siteDescr = "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+siteAuthor = "Vincent Alcantara"
+
+siteTelegramUrl = "#"
+siteTwitterUrl = "#"
+siteGithubUrl = "#"
+siteEmailUrl = "#"
+siteRssUrl = "#"
+siteVkUrl = "#"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/"
